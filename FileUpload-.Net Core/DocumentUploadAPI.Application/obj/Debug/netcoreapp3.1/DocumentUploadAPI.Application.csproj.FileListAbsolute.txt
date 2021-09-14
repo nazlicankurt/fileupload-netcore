@@ -1,0 +1,26 @@
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.csproj.AssemblyReference.cache
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.AssemblyInfoInputs.cache
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.AssemblyInfo.cs
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Application.deps.json
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Application.dll
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Application.pdb
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Domain.dll
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Domain.pdb
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.csproj.CopyComplete
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.dll
+C:\Users\kurtn\source\repos\DocumentUploadAPI\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.pdb
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Application.deps.json
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Application.dll
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Application.pdb
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Domain.dll
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\bin\Debug\netcoreapp3.1\DocumentUploadAPI.Domain.pdb
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.AssemblyInfo.cs
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.csproj.CopyComplete
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.dll
+C:\Users\Detay\FileUploadApplication\FileUpload-.Net Core\DocumentUploadAPI.Application\obj\Debug\netcoreapp3.1\DocumentUploadAPI.Application.pdb
