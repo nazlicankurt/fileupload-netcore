@@ -21,7 +21,7 @@
         "MSSQL_URI": "Data Source=.;Initial Catalog=FileDbb;Integrated Security=True; MultipleActiveResultSets=true;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:1800"
+      "applicationUrl": "http://localhost:18000"
     }
   }
 }

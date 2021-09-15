@@ -3,7 +3,7 @@ name: "optic"
 tasks:
   start:
     command: "dotnet run --port=$PORT"
-    inboundUrl: http://localhost:1800
+    inboundUrl: http://localhost:4000
   # Use the test command to test your API in your CI build pipeline 
   test:
     command: "echo \"Error: no test command specified\" && exit 1"

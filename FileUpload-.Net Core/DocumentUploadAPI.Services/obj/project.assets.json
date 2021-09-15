@@ -6650,11 +6650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\DocumentUploadAPI.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\DocumentUploadAPI.Services.csproj",
       "projectName": "DocumentUploadAPI.Services",
-      "projectPath": "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\DocumentUploadAPI.Services.csproj",
+      "projectPath": "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\DocumentUploadAPI.Services.csproj",
       "packagesPath": "C:\\Users\\Detay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\obj\\",
+      "outputPath": "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Detay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6671,11 +6671,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Application\\DocumentUploadAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Application\\DocumentUploadAPI.Application.csproj"
+            "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Application\\DocumentUploadAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Application\\DocumentUploadAPI.Application.csproj"
             },
-            "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Infrastructure\\DocumentUploadAPI.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Infrastructure\\DocumentUploadAPI.Infrastructure.csproj"
+            "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Infrastructure\\DocumentUploadAPI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Infrastructure\\DocumentUploadAPI.Infrastructure.csproj"
             }
           }
         }

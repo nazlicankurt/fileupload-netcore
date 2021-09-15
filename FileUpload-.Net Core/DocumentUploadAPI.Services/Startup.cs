@@ -30,7 +30,7 @@ namespace DocumentUploadAPI.Services
             var portString = (System.Environment.GetEnvironmentVariable("PORT"));
             if (String.IsNullOrEmpty(portString))
             {
-                portString = "3005";
+                portString = "18000";
             }
 
             return Host.CreateDefaultBuilder(args).ConfigureWebHostDefaults(webBuilder =>

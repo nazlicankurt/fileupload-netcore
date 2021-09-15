@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8i9y1/axQLu3u/nCiS6VVadku5nOhiosUJcxzYYdBqi4581zEICUwDqXiHhoUGWiIbeLdUxbsGlJhtD6qq7eDw==",
+  "dgSpecHash": "n2CqbaeH09nkXTOHhDSghGeOKfMxqI3Tc3V6chtnVVcCTykf+VKwGIC6LD45WzmKDpMIBRWjTQsAlMTeEBE/uQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Detay\\FileUploadApplication\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\DocumentUploadAPI.Services.csproj",
+  "projectFilePath": "C:\\Users\\Detay\\Documents\\GitHub\\fileupload-netcore\\FileUpload-.Net Core\\DocumentUploadAPI.Services\\DocumentUploadAPI.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Detay\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Detay\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
